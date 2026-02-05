@@ -107,22 +107,23 @@ body {
     }
 
     .search input {
+        width: 100px;
         height: 45px;
         font-size: 16px;
         padding: 8px 15px;
         margin-right: 10px;
-        background: #1d3c4a;
+        
     }
 
     .search button {
         width: 35px;
         height: 40px;
-        background: #1d3c4a;
     }
 
     .search button img {
         width: 18px;
     }
 }
+
 
 /* https://api.openweathermap.org/data/2.5/weather?q=kadapa&appid=39e8b5ecce011fc99ce4956ad5360189&units=metric */
